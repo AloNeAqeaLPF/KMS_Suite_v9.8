@@ -60,7 +60,6 @@ Online KMS License     -  Windows 7 (VL) 8 / 8.1 / 10 / 11 / Server / Office   -
    * Office Retail (Supported if Volume License certificates are installed)
    * Windows 7 (Starter, HomeBasic, HomePremium, Ultimate)
    * Windows 10 (Cloud S, Professional Single Language)
-     Windows 11 (Cloud S, Professional Single Language)
    * Windows Server (Server Foundation, Storage Server, Home Server 2011)
 
 ==========================================================================================================================
