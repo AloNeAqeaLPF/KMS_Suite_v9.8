@@ -64,7 +64,6 @@ Windows ve Office ürünlerinin aşağıda yazılan sürümleri Online KMS, KMS 
   * Office Retail (Volume Lisans sertifikaları yüklendiği takdirde desteklenir)
   * Windows 7 (Starter, HomeBasic, HomePremium, Ultimate)  
   * Windows 10 (Cloud S, Professional Single Language)
-    windows 11 (Cloud S, Professional Single Language)
   * Windows Server (Server Foundation, Storage Server, Home Server 2011)
 
 ==========================================================================================================================
@@ -83,11 +82,7 @@ Windows ve Office ürünlerinin aşağıda yazılan sürümleri Online KMS, KMS 
   
   * Betik dosyasını kapatmak için menü seçeneklerinden ÇIKIŞ seçeneğini kullanın.
       
-==========================================================================================================================
-
-# BİLİNEN SORUNLAR:
-
-Hata bulursanız TNCTR Forumunda konu üzerinden bildirin.
+=======================================================================================================================
 
 ==========================================================================================================================
 
