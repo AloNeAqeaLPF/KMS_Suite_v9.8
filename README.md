@@ -59,7 +59,6 @@ KMS Lisansı - Windows 7 (VL) 8 / 8.1 / 10 / 11 / Sunucu / Office - 180 günlük
    * Office Retail (Toplu Lisans sertifikaları yüklüyse desteklenir)
    * Windows 7 (Başlangıç, HomeBasic, HomePremium, Ultimate)
    * Windows 10 (Bulut S, Profesyonel Tek Dil)
-   * Windows 11 (Bulut S, Profesyonel Tek Dil)
    * Windows Server (Sunucu Temeli, Depolama Sunucusu, Ev Sunucusu 2011)
 
 =================================================== =================================================== ======================
