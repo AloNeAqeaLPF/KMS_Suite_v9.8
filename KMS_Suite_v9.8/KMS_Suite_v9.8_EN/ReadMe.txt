@@ -6,7 +6,7 @@ This tool includes 4 different activation methods.
 
 KMS Inject, Digital, KMS 2038 and Online activations.
 
-While this script is being created, abbodi1406’s script is referenced. Thank him so much.
+While this script is being created, abbodi1406â€™s script is referenced. Thank him so much.
 
 Some security programs will report infected files, that is false-positive due KMS emulating.
 NOTE: Windivert and Digital Activation methods are virus free
@@ -60,6 +60,7 @@ Online KMS License     -  Windows 7 (VL) 8 / 8.1 / 10 / 11 / Server / Office   -
    * Office Retail (Supported if Volume License certificates are installed)
    * Windows 7 (Starter, HomeBasic, HomePremium, Ultimate)
    * Windows 10 (Cloud S, Professional Single Language)
+     Windows 11 (Cloud S, Professional Single Language)
    * Windows Server (Server Foundation, Storage Server, Home Server 2011)
 
 ==========================================================================================================================
@@ -92,20 +93,5 @@ The WinDivert method is not included in version v9x because it is not running he
 versions will not be included.
 
 ==========================================================================================================================
-
-# Special Thanks
-
-TNCTR Family  
-Nsane Family  
-abbodi1406
-CODYQX4
-qewlpal
-s1ave77
-cynecx
-qad
-Mouri_Naruto
-WindowsAddict
-mspaintmsi
-BAU
 
 ==========================================================================================================================
